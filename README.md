@@ -1,5 +1,8 @@
-# Calculator Website
+# Calculator
 
-*Website UI*
-
-![Screenshot 2025-01-10 153551](https://github.com/user-attachments/assets/bc5bb7a0-e174-465f-a7c1-d037c2a8c776)
+CodeAlpha internship.
+---
+Responsive calculator with HTML,CSS,Js.
+<h3>Website Ui</h3>
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/8543002e-d588-416a-8a08-8df150b51591" />
+---
