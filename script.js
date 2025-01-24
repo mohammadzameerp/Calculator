@@ -1,4 +1,4 @@
-// Append input to the display
+// Append input to the display.
 function append(value) {
     const result = document.getElementById("result");
     result.value += value;
